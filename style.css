@@ -1,0 +1,27 @@
+.azzurro {
+    height: 100px;
+    background-color: #007fff;
+    border: 1px solid black;
+}
+
+.bianco {
+    height: 100px;
+    background-color: white;
+    border: 2px solid red;
+}
+
+
+p {
+    height: 100%;
+    background-color: white;
+    color: #007fff;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 900;
+}
+
+img {
+    height: 100%;
+    background-color: white;
+    padding: 10px;
+}
